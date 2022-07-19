@@ -1,0 +1,52 @@
+[
+    {
+        "s1": "100 Feet Road",
+        "s2": "13-D Bridge",
+        "acc": 0.9230769230769231
+    },
+    {
+        "s1": "(HQ) Mansfield street",
+        "s2": "100 Feet Road",
+        "acc": 0.8571428571428571
+    },
+    {
+        "s1": "(HQ) Mansfield street",
+        "s2": "100 Quarters",
+        "acc": 0.8571428571428571
+    },
+    {
+        "s1": "100 Quarters",
+        "s2": "13-D Bridge",
+        "acc": 0.8333333333333334
+    },
+    {
+        "s1": "100 Feet Road",
+        "s2": "19-D Mohajir camp",
+        "acc": 0.8235294117647058
+    },
+    {
+        "s1": "(HQ) Mansfield street",
+        "s2": "13-D Bridge",
+        "acc": 0.8095238095238095
+    },
+    {
+        "s1": "(HQ) Mansfield street",
+        "s2": "19-D Mohajir camp",
+        "acc": 0.8095238095238095
+    },
+    {
+        "s1": "100 Quarters",
+        "s2": "19-D Mohajir camp",
+        "acc": 0.7647058823529411
+    },
+    {
+        "s1": "13-D Bridge",
+        "s2": "19-D Mohajir camp",
+        "acc": 0.7058823529411765
+    },
+    {
+        "s1": "100 Feet Road",
+        "s2": "100 Quarters",
+        "acc": 0.6923076923076923
+    }
+]
