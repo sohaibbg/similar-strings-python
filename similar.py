@@ -7,7 +7,6 @@ f = open('assets/stopList.json')
 stopList = json.load(f)
 
 comparator = fuzz.ratio
-upweight_factor = 3
 upweight_pattern = r'\d+'
 downweight_factor = 0.01
 downweight_terms = ['road', 'chowrangi', 'street', 'shahrah', 'mills', 
